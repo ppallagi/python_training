@@ -17,6 +17,15 @@ age = 36
 print(type(age))
 
 
+hours =3
+minutes = hours*60
+print(str(hours) + "óra az" + str(minutes) + "perc")
+
+
+word = "megkáposztatatlanizéke"
+print('A ' + word + ' pontosan ' + str(len(word)) + ' karakter hosszú.')
+
+
 
 
 
