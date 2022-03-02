@@ -13,7 +13,7 @@ print(color_of_eye_john)
 age = 30
 print(type(age))
 
-age = 30
+age = 36
 print(type(age))
 
 
