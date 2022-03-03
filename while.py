@@ -9,3 +9,6 @@ while number !=0:
 
 #az elején a number = 10 azért van hoyg egyáltalán elinduljon:)
 
+
+
+
